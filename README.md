@@ -2,27 +2,17 @@
 
 This project presents a Sales Analysis Dashboard for Ferns N Petals (FNP), built using Microsoft Excel.  The dashboard provides insights into order trends, revenue performance, customer spending behavior, and product/category analysis, helping businesses understand seasonal demand and optimize sales strategies.
 
-Key Features
+Sales Performance Dashboard Summary
 
-Sales Performance Total Orders: 1000 Total Revenue: ₹35,20,984 Average Customer Spend: ₹3,520.98
+This dashboard provides an overview of sales performance, customer spending behavior, and demand patterns across time, occasions, and locations.
 
-Time-Based Analysis Monthly sales trends across the year Peak sales observed during: Raksha Bandhan Anniversaries Valentine’s Day Helps identify seasonal demand spikes
+The business recorded 1,000 total orders, generating ₹35.2L in revenue with an average customer spend of ₹3,520, indicating consistent purchase behavior.
 
-Occasion-Based Insights Sales distribution by occasions: Anniversary Birthday Diwali Holi Raksha Bandhan Valentine’s Day Enables targeted marketing campaigns
+Sales trends highlight clear seasonal spikes during key occasions like Raksha Bandhan, Valentine’s Day, and anniversaries, showing strong event-driven demand. Product categories such as cakes and gifts contribute the most to overall revenue.
 
-Product Category Analysis Categories include: Cakes Colors Mugs Plants Soft Toys Sweets Top-performing categories contribute major revenue share
+City-wise distribution reveals uneven demand across locations, while time-based analysis helps identify peak ordering hours.
 
-City-Wise Orders Order distribution across cities like: Imphal Kavali Haridwar Dibrugarh Helps identify high-demand regions
-
-Order Time Analysis Revenue trend based on order time (hours) Useful for understanding peak ordering hours
-
-Interactive Filters Order Time (Monthly filter) Order Date (Timeline filter) Occasion slicer
-Insights Derived Festival and special occasions drive the majority of sales Certain product categories (like cakes & gifts) dominate revenue Sales are unevenly distributed across cities → expansion opportunity Customer spending remains consistent across occasions
-
-Tools & Technologies 📊 Microsoft Excel 📈 Pivot Tables 📉 Charts & Graphs 🎛️ Slicers & Timeline Filters
-
-Business Use Case
-
+Overall, the dashboard supports better targeting of seasonal campaigns, product focus, and regional expansion decisions.
 This dashboard helps:
 
 <img width="938" height="354" alt="image" src="https://github.com/user-attachments/assets/321eb53c-402d-45be-8a75-a107a980146a" />
